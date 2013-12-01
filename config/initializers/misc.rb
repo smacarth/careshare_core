@@ -1,0 +1,1 @@
+RailsDevelopmentBoost.async = false if defined?(RailsDevelopmentBoost)
